@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651773202 source:c:\users\nicol\desktop\projetos\ifelseif\main.c
+	<stdio.h>
+	<conio.h>
+

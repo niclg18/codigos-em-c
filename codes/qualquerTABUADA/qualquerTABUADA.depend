@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1652390381 source:c:\users\nicol\desktop\projetos\qualquertabuada\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1652392833 source:c:\users\nicol\desktop\projetos\git                           hub\qualquertabuada\main.c
+	<stdio.h>
+	<stdlib.h>
+

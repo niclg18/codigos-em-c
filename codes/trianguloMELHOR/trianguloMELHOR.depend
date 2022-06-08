@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1651861061 source:c:\users\nicol\desktop\projetos\triangulomelhor\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1652392555 source:c:\users\nicol\desktop\projetos\git                           hub\triangulomelhor\main.c
+	<stdio.h>
+	<stdlib.h>
+
