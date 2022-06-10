@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1654817985 source:c:\users\nicol\desktop\projetos\estudos\string(vetor-de-char)\string3\main.c
+	<stdio.h>
+	<stdlib.h>
+
